@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/rubi-thapa-124673209/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://scholar.google.com/citations?user=G7naMfgAAAAJ&hl=en&oi=ao]" target="_blank">
+  <a href="https://scholar.google.com/citations?user=G7naMfgAAAAJ&hl=en&oi=ao" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
 </p>
