@@ -41,18 +41,32 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="mailto:rubythapa2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rubythapa2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/rubi-thapa-124673209/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rubi-thapa-124673209/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://scholar.google.com/citations?user=G7naMfgAAAAJ&hl=en&oi=ao" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
 </p>
 
 ---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rubythapa&show_icons=true&theme=transparent&hide_border=true"
+    height="150"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubythapa&layout=compact&theme=transparent&hide_border=true"
+    height="150"
+    alt="Top Languages"
+  />
+</p>
 
 ### 📊 GitHub Stats
 <p align="left">
