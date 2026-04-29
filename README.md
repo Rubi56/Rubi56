@@ -55,21 +55,3 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rubythapa&show_icons=true&theme=transparent&hide_border=true"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubythapa&layout=compact&theme=transparent&hide_border=true"
-    height="150"
-    alt="Top Languages"
-  />
-</p>
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubythapa&show_icons=true&theme=rose_pine&title_color=D81B60&icon_color=2D5A27&text_color=333" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubythapa&layout=compact&theme=rose_pine&title_color=D81B60" height="150" />
-</p>
