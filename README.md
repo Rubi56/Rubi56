@@ -11,13 +11,13 @@
 </p>
 
 <p align="left">
-  I work at the intersection of <b>Food Science</b>, <b>Informatics</b>, <b>Machine Learning</b>, and <b>NLP</b>, with a focus on data-driven research for biosystems, sensors, and materials.
+  I work at the intersection of <b>Materials Engineering</b>, <b>Informatics</b>, <b>Machine Learning</b>, and <b>NLP</b>, with a focus on data-driven research for biosystems, sensors, and materials.
 </p>
 
 ---
 
 ### ✨ Focus Areas
-- AI for food and bio-domain data
+- AI for bio-chemical and bio-domain data
 - Machine learning for materials and sensing systems
 - NLP-based analysis of scientific and biological information
 
@@ -44,10 +44,10 @@
   <a href="mailto:rubythapa2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/rubi-thapa-124673209/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+  <a href="[https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=G7naMfgAAAAJ&hl=en&oi=ao)" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
 </p>
