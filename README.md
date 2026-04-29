@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left" style="font-size: 16px; margin-top: 6px;">
-  <b>Interdisciplinary Researcher</b> • <b>Informatics Graduate Student</b> • <b>Food Technologist</b>
+  <b>Interdisciplinary Researcher</b> • <b>Informatics Graduate Student</b> 
 </p>
 
 <p align="left">
